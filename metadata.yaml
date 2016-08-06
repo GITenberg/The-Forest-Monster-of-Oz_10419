@@ -1,0 +1,27 @@
+_repo: The-Forest-Monster-of-Oz_10419
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Dulabone, Chris
+    gutenberg_agent_id: '4657'
+    url: http://www.gutenberg.org/2009/agents/4657
+  - agent_name: Evans, Robert J.
+    alias: Evans, Bob
+    gutenberg_agent_id: '3040'
+    url: http://www.gutenberg.org/2009/agents/3040
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10419'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Fantasy'
+- !lcsh 'Oz (Imaginary place) -- Fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Forest Monster of Oz
+url: http://www.gutenberg.org/ebooks/10419
